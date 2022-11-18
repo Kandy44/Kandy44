@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## My name is Nadiminty Surya Venkata Rama Kaundinya.
+
+## Below is the link of my holopin badges.
+
+[![@nkandy44's Holopin board](https://holopin.me/nkandy44)](https://holopin.io/@nkandy44)
+
 <!--
 **Kandy44/Kandy44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
